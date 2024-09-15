@@ -11,7 +11,7 @@ import SwiftUI
 struct MyFetchChallengeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabBarView()
         }
     }
 }
